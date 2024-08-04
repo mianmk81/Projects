@@ -1,0 +1,39 @@
+1) what color is the sky?
+Red Blue Yellow Brown 
+1
+
+2) What color is the Grass? 
+Purple Blue Orange Green
+3
+
+3) What color is a Sunflower? 
+Yellow Blue White Pink 
+0 
+
+4) How tall in Michael?
+5,11 5,9 5,10 6,0 
+2
+
+5) What do we need to stay alive? 
+Food Water None_of_the_Above A_and_B
+3
+
+6) What is the Earth's Gravity? 
+9.8 3.333 10.9 1.8
+0
+
+7) What are we?
+Humans Idiots All_of_the_above I_don't_know 
+2 
+
+8) How many feet is a meter? 
+5 3 9 10
+1
+
+9) Who is taller than Mubashar?
+No_one Everbody Jaden Gio
+1
+
+10) How many Pennies are there in a Dollar? 
+5 20 4 10 100 
+3
